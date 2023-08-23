@@ -41,7 +41,7 @@ class MainStore {
     this.loading = true;
     this.timestamps = {};
     this.spans = [7, 30, 180, 365];
-    this.platforms = ['uniswapv2', 'curve', 'uniswapv3'];
+    this.platforms = ['uniswapv2', 'curve', 'uniswapv3', 'sushiswapv2'];
     this.quotes = ['USDC', 'WBTC', 'WETH']
     this.ltvQuotes = []
     this.graphData = {};

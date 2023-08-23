@@ -9,6 +9,7 @@ import { ExpandMore } from "@mui/icons-material";
 
 const nameMap = {
   uniswapv2: "Uniswap v2",
+  sushiswapv2: "Sushiswap v2",
   curve: 'Curve',
   uniswapv3: 'Uniswap v3'
 };
